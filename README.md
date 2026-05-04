@@ -100,7 +100,8 @@ See full structure above.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Banking-Analytics-Dashboard.git
+   git clone [https://github.com/yourusername/Banking-Analytics-Dashboard.git](https://github.com/MOHAEDKHALED/Banking-Analytics-Dashboard/tree/master)
+   
 
 Open powerbi/Final Banking.pbix using Power BI Desktop
 Click "Refresh" to load the latest data
@@ -143,5 +144,3 @@ docs/Technical-Architecture.md
 scripts/python/exploratory_data_analysis.py
 Executive Summary (for presentation)
 
-Just say which ones you want next, and I’ll deliver them in full professional English with high depth.
-Ready when you are!
