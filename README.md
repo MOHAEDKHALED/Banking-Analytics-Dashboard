@@ -3,7 +3,8 @@
 
 **Comprehensive Power BI Business Intelligence Solution for Banking Operations**
 
-![Dashboard Header](images/dashboard-screenshots/main-dashboard.png)
+<img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/db2a8cab-ab82-46fd-9175-70a7d571a068" />
+
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-blue)
